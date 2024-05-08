@@ -15,7 +15,7 @@
 ![Unity](https://img.shields.io/badge/Unity-black?style=flat&logo=unity&logoColor=pink)
 ![Godot](https://img.shields.io/badge/Godot-black?style=flat&logo=godotengine&logoColor=pink)
 ![.NET](https://img.shields.io/badge/.NET-black?style=flat&logo=dotnet&logoColor=pink)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?&logo=node.js&logoColor=pink)
 
 ### Social Links
 

@@ -15,9 +15,10 @@
 ![Unity](https://img.shields.io/badge/Unity-black?style=flat&logo=unity&logoColor=pink)
 ![Godot](https://img.shields.io/badge/Godot-black?style=flat&logo=godotengine&logoColor=pink)
 ![.NET](https://img.shields.io/badge/.NET-black?style=flat&logo=dotnet&logoColor=pink)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
 ### Social Links
 
 [Telegram](https://t.me/despairOFexistence) | [VK](https://vk.com/pchemuja)
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Apalon13&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apalon13&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&theme=graywhite" /></a>
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Apalo13&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apalo13&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>

@@ -8,6 +8,7 @@
 ![HTML](https://img.shields.io/badge/HTML-black?style=flat&logo=html5&logoColor=pink)
 ![CSS](https://img.shields.io/badge/CSS-black?style=flat&logo=css3&logoColor=pink)
 ![GDScript](https://img.shields.io/badge/GDScript-black?style=flat&logo=godotengine&logoColor=pink)
+![Go](https://img.shields.io/badge/Go-black?style=flat&logo=go&logoColor=pink)
 
 
 ### Technologies
